@@ -1,0 +1,61 @@
+@import url( https://fonts.googleapis.com/css?family=Roboto );
+.smartbanner-container {
+	margin: 0px auto; padding: 10px 0px; height: 100%; white-space: nowrap; position: relative; direction: ltr !important; max-width: 800px;
+}
+.smartbanner {
+	left: 0px; top: 0px; width: 100%; height: 81px; text-align: left; line-height: 80px; overflow: hidden; font-family: Roboto, Arial, sans-serif; display: none; position: absolute; z-index: 2147483647; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none;
+}
+.smartbanner-close {
+	display: inline-block;
+}
+.smartbanner-icon {
+	display: inline-block;
+}
+.smartbanner-info {
+	display: inline-block;
+}
+.smartbanner-close {
+	border-radius: 14px; border: 0px currentColor; border-image: none; width: 17px; height: 100%; text-align: center; line-height: 17px; font-family: ArialRoundedMTBold, Arial; font-size: 22px; text-decoration: none; vertical-align: middle; -webkit-font-smoothing: subpixel-antialiased;
+}
+.smartbanner-close:active {
+	color: rgb(238, 238, 238);
+}
+.smartbanner-close:hover {
+	color: rgb(238, 238, 238);
+}
+.smartbanner-icon {
+	border-radius: 10px; width: 57px; height: 57px; background-size: cover;
+}
+.smartbanner-info {
+	width: 44%; text-align: left; line-height: 1.5em; font-size: 12px; font-weight: 400; vertical-align: top;
+}
+.smartbanner-button {
+	margin: auto 0px; border: 1px solid rgb(255, 255, 255); border-image: none; top: 5px; height: 24px; right: 10px; bottom: 0px; position: absolute; min-height: 25px; min-width: 12%; box-shadow: none;
+}
+.smartbanner-button-text {
+	padding: 0px 2px; text-align: center; color: rgb(255, 255, 255); text-transform: uppercase; line-height: 27px; font-size: 14px; font-weight: 400; vertical-align: middle; display: block; box-shadow: none; text-shadow: none;
+}
+#banner_div_empty {
+	position: absolute !important;
+}
+.smartbanner-show {
+	margin-top: 80px;
+}
+.smartbanner-show .smartbanner {
+	display: block;
+}
+.smartbanner-info > div:nth-child(2) {
+	color: silver; text-transform: uppercase;
+}
+.smartbanner {
+	background: linear-gradient(rgb(40, 156, 219) 0px, rgb(26, 107, 210) 100%);
+}
+.smartbanner {
+	color: rgb(255, 255, 255) !important;
+}
+.smartbanner-button {
+	color: rgb(255, 255, 255) !important;
+}
+.smartbanner-close {
+	color: rgb(255, 255, 255) !important;
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>cache.io9.com</BucketName><RequestId>AC0DF97C0225E6BF</RequestId><HostId>v9Bo0jR78HmlG+cmkfvjdstjzRmuKJcdDJytY6cHR7tuA5tS74TOZqh1j2huhkxK</HostId></Error>

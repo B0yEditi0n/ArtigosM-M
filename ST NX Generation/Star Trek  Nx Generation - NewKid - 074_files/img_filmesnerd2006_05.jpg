@@ -1,0 +1,867 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="pt">
+	<head>
+		<title>Jovem Nerd News | Jovem Nerd</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" can-be-deleted="no">
+		<meta http-equiv="Content-Language" content="pt" can-be-deleted="no">
+		<link rel="stylesheet" type="text/css" href="http://jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="http://jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/css/skin2.css" />
+		<link rel="stylesheet" type="text/css" href="http://jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/css/home.css?v5" />
+		<link rel="stylesheet" type="text/css" href="http://jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/css/nivo-slider.css" />
+		<link rel="stylesheet" type="text/css" href="http://jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/css/jquery.jscrollpane.css" />
+		<link rel="stylesheet" type="text/css" href="http://jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/css/comments.css" />
+		<script type="text/javascript" can-be-deleted="no">
+			var template_directory_uri = "http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b";
+			var blog_home_uri = "http://jovemnerd.com.br/";
+		</script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery-1.8.3.js" can-be-deleted="no"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery-ui-1.10.3/ui/minified/jquery-ui.min.js" can-be-deleted="no"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jQuery.jPlayer.2.1.0/jquery.jplayer.min.js" can-be-deleted="no"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery.jcarousel.js"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery.nivo.slider.js"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery.jscrollpane.min.js"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery.cookie.js"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/date.format.js"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery.tmpl.min.js"></script>
+		<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/jquery.mask.js"></script>
+		<script type="text/javascript">
+			function load_skynerd_frame(){}
+		</script>
+		<script type='text/javascript'>
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+				var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+		<script type='text/javascript'>
+			googletag.cmd.push(function() {
+					
+					googletag.defineSlot('/22837869/jn_home_1680x1024_I_35', [1680, 1024], 'div-gpt-ad-1372263409518-32').addService(googletag.pubads());
+					googletag.defineSlot('/22837869/jn_home_300x250_I_2', [300, 250], 'div-gpt-ad-1372263409518-33').addService(googletag.pubads());
+					googletag.defineSlot('/22837869/jn_home_728x90_I_1', [728, 90], 'div-gpt-ad-1372263409518-34').addService(googletag.pubads());
+								
+				googletag.defineSlot('/22837869/bg_submarino_blacknight_small', [1360, 1000], 'div-gpt-ad-1390789468858-0').addService(googletag.pubads());
+				googletag.defineSlot('/22837869/BG_1680_1000', [1680, 1000], 'div-gpt-ad-1386369900263-0').addService(googletag.pubads());
+
+				googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+			});
+		</script>
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-98571-1']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+	</head>
+	<body>
+		
+					<script type="text/javascript" can-be-deleted="no">var skynerdhost = "http://comentarios.jovemnerd.com.br/";</script>
+			<script type="text/javascript" src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/js/iframe.js?v21&4&0319" can-be-deleted="no"></script>
+			
+ 		<div id="wrapper">
+			<div id="header">
+				<div id="top-banner">
+						
+						<div id='div-gpt-ad-1372263409518-34' style='width:728px; height:90px;'>
+							<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1372263409518-34'); });
+							</script>
+						</div>
+									</div>
+				<div>
+					<a href="http://jovemnerd.com.br/">
+						<h1>Jovem Nerd</h1>
+					</a>
+				</div>
+				<div id="skynerd-navbar"></div>			
+				<div id="menu">
+					<ul id="menu-cabecalho-principal" class="menu"><li id="menu-item-60444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60444"><a href="http://www.nerdstore.com.br/">Nerdstore</a></li>
+<li id="menu-item-73910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73910"><a href="http://nerdbooks.com.br">Nerdbooks</a></li>
+<li id="menu-item-60445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60445"><a href="http://jovemnerd.com.br/quem-somos/">QUEM SOMOS</a></li>
+<li id="menu-item-60446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60446"><a href="http://www.ftpidigital.com.br/portifolios/midiakit_jovemnerd.pdf">ANUNCIE</a></li>
+</ul>					<div id="submenu">
+						<ul id="menu-cabecalho-secundario" class="menu"><li id="menu-item-60447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60447"><a href="http://jovemnerd.com.br/categoria/nerdcast/">Nerdcast</a></li>
+<li id="menu-item-60448" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60448"><a href="http://jovemnerd.com.br/categoria/nerdoffice/">NerdOffice</a></li>
+<li id="menu-item-60449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60449"><a href="http://jovemnerd.com.br/categoria/nerdplayer/">NerdPlayer</a></li>
+<li id="menu-item-60601" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60601"><a href="http://jovemnerd.com.br/categoria/matando-robos-gigantes/">Matando Robôs Gigantes</a></li>
+<li id="menu-item-69108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69108"><a href="http://jovemnerd.com.br/categoria/a-maravilhosa-cozinha-de-jack/">A Maravilhosa Cozinha de Jack</a></li>
+<li id="menu-item-60453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60453"><a href="http://jovemnerd.com.br/categoria/colunas/">Colunas</a></li>
+<li id="menu-item-60454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60454"><a href="http://jovemnerd.com.br/categoria/contos/">Contos</a></li>
+</ul>					</div>
+					<form action="http://jovemnerd.com.br/" method="get" id="search">
+						<input type="text" name="s" value="" />
+					</form>
+				</div>
+				<div id="nerdinho"></div>
+			</div>
+			<div id="content">
+<div id="main">
+	<div class="post entries">
+		<div>
+					
+			<h2 class="page-title">
+									Categoria: <span>Jovem Nerd News</span>							</h2>
+			
+							
+				<div id="post-92949" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/games/from-dreams-como-left-behind-foi-feito/" rel="bookmark">&#8220;From Dreams&#8221;, como Left Behind foi feito</a></h3>
+					
+					<div class="entry-content">
+						<p>Left Behind mostra o reencontro de Ellie e Riley, amiga que é rapidamente mencionado por Ellie no final de The Last of Us. A expansão joga uma luz sobre o relacionamento das amigas que se conheceram no colégio militar, onde ambas também cresceram. O game começa mostrando a volta de Riley, depois de desaparecer inexplicavelmente [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Friday, 28 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/from-dreams-como-left-behind-foi-feito/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/games/" title="View all posts in Games" rel="category tag">Games</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/from-dreams-como-left-behind-foi-feito/#respond" title="Comment on &#8220;From Dreams&#8221;, como Left Behind foi feito"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92944" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/minecraft-vai-virar-filme-pela-warner-bros/" rel="bookmark">Minecraft vai virar filme pela Warner Bros.</a></h3>
+					
+					<div class="entry-content">
+						<p>Segundo o Deadline, a Warner Bros adquiriu os direitos do game Minecraft para adaptá-lo ao cinema. A informação chega logo depois de outro filme baseado em bloquinhos, Uma Aventura Lego, ter atingido a marca de 250 milhões de dólares nas bilheterias mundiais. O filme que também é uma produção da Warner já tem até uma [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Friday, 28 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/minecraft-vai-virar-filme-pela-warner-bros/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/cinema/" title="View all posts in Cinema" rel="category tag">Cinema</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/minecraft-vai-virar-filme-pela-warner-bros/#respond" title="Comment on Minecraft vai virar filme pela Warner Bros."><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92940" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/games/titanfall-nao-tera-season-pass/" rel="bookmark">Titanfall não terá Season Pass</a></h3>
+					
+					<div class="entry-content">
+						<p>A Respawn confirmou que o jogo Titanfall não contará com um sistema de Season Pass. A revelação veio pelo twitter oficial da empresa. O Season Pass é uma maneira de garantir a acsição de todos os DLCs que serão lançado para um jogo, pagando antecipadamente por eles mas com um desconto. Essa estratégia tem sido amplamente [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Friday, 28 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/titanfall-nao-tera-season-pass/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/games/" title="View all posts in Games" rel="category tag">Games</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/titanfall-nao-tera-season-pass/#respond" title="Comment on Titanfall não terá Season Pass"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92936" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/games/wolfenstein-the-new-order-roda-em-1080p60fps-no-xbox-one-e-ps4/" rel="bookmark">Wolfenstein: The New Order roda em 1080p/60fps no Xbox One e PS4</a></h3>
+					
+					<div class="entry-content">
+						<p>Finalmente um jogo que deve deixar tanto os donos do PS4, quanto os dono Xbox One satisfeitos no que diz respeito a resolução. Desde o lançamento dos consoles de nova geração, poucos jogos estavam conseguindo aproveitar o potencial total das máquinas. E algumas franquias rodavam com mais definição em um console do que no outro. [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Friday, 28 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/wolfenstein-the-new-order-roda-em-1080p60fps-no-xbox-one-e-ps4/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/games/" title="View all posts in Games" rel="category tag">Games</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/wolfenstein-the-new-order-roda-em-1080p60fps-no-xbox-one-e-ps4/#respond" title="Comment on Wolfenstein: The New Order roda em 1080p/60fps no Xbox One e PS4"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92932" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/internet/series-da-marvelnetflix-serao-gravadas-em-nova-york/" rel="bookmark">Séries da Marvel/Netflix serão gravadas em Nova York</a></h3>
+					
+					<div class="entry-content">
+						<p>A Marvel, a Disney e a Netflix organizaram uma conferência ontem para fazer um anunciou sobre a mini-série que as empresas estão produzindo juntas. Como você já sabe, Demolidor, Luke Cage, Punho de Ferro e Jessica Jones cada um terá uma série própria e a ação deverá se passar em Nova York, mais especificamente no bairro da Cozinha do Inferno. A conferência [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Friday, 28 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/internet/series-da-marvelnetflix-serao-gravadas-em-nova-york/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/internet/" title="View all posts in Internet" rel="category tag">Internet</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/internet/series-da-marvelnetflix-serao-gravadas-em-nova-york/#respond" title="Comment on Séries da Marvel/Netflix serão gravadas em Nova York"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92922" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/tv/quatro-novos-posteres-da-serie-um-drinque-no-inferno/" rel="bookmark">Quatro novos pôsteres da série Um Drinque no Inferno</a></h3>
+					
+					<div class="entry-content">
+						<p>Temos aqui quatro novos pôsteres do seriado Um Drink no Inferno. No filme os criminosos Seth e Richie Gecko sequestram a família Fuller após cometer uma série de crimes. Ao se esconderem em um bar de strip, ele descobrem que esse lugar é habitado por vampiros e precisam sobreviver até o dia amanhecer. O seriado não [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Friday, 28 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/tv/quatro-novos-posteres-da-serie-um-drinque-no-inferno/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/tv/" title="View all posts in TV" rel="category tag">TV</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/tv/quatro-novos-posteres-da-serie-um-drinque-no-inferno/#respond" title="Comment on Quatro novos pôsteres da série Um Drinque no Inferno"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92917" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/conheca-os-viloes-de-300-a-ascensao-do-imperio/" rel="bookmark">Conheça os vilões de 300: A Ascensão do Império</a></h3>
+					
+					<div class="entry-content">
+						<p>A Warner Bros. mostrou hoje um novo vídeo de 300: A Ascensão do Império onde o filme apresenta os seus vilões! Este novo capítulo da saga épica leva a ação para um novo campo de batalha: o mar. O general grego Themistokles tenta unir toda a Grécia, para iniciar um ataque que vai mudar o curso da [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Friday, 28 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/conheca-os-viloes-de-300-a-ascensao-do-imperio/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/cinema/" title="View all posts in Cinema" rel="category tag">Cinema</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/conheca-os-viloes-de-300-a-ascensao-do-imperio/#respond" title="Comment on Conheça os vilões de 300: A Ascensão do Império"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92913" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/destino-de-jupiter-ganha-um-novo-trailer/" rel="bookmark">Destino de Júpiter ganha um novo trailer</a></h3>
+					
+					<div class="entry-content">
+						<p>Destino de Júpiter (Jupiter Ascending) é um ficção científica com elementos de fantasia, com Mila Kunis e Channing Tatum nos papeis principais. Mila é uma descendente &#8220;real&#8221; de uma raça que controla o universo, mas isolada na Terra ela não tem ideia de sua importância. Channing Tatum será o soldado encarregado de resgatá-la e lhe dar [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Friday, 28 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/destino-de-jupiter-ganha-um-novo-trailer/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/cinema/" title="View all posts in Cinema" rel="category tag">Cinema</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/destino-de-jupiter-ganha-um-novo-trailer/#respond" title="Comment on Destino de Júpiter ganha um novo trailer"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92886" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/trailer-de-as-tartarugas-ninjas-chega-em-abril/" rel="bookmark">Trailer de As Tartarugas Ninjas chega em abril</a></h3>
+					
+					<div class="entry-content">
+						<p>A espera por alguma coisa do filme das Tartarugas Ninjas vai acabar em abril, finalmente o filme vai ganhar o seu primeiro teaser trailer. O vídeo será exibido primeiro nas cópias de Capitão América 2: O Soldado Invernal, no dia 2 de abril. A revelação foi feita pelo produtor do filme, Galen Walker, no Facebook. [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Thursday, 27 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/trailer-de-as-tartarugas-ninjas-chega-em-abril/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/cinema/" title="View all posts in Cinema" rel="category tag">Cinema</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/trailer-de-as-tartarugas-ninjas-chega-em-abril/#respond" title="Comment on Trailer de As Tartarugas Ninjas chega em abril"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+							
+				<div id="post-92880" class="entry">
+					<h3 class="entry-title"><a href="http://jovemnerd.com.br/jovem-nerd-news/games/novo-trailer-de-the-walking-dead-season-two-episodio-2/" rel="bookmark">Novo trailer de The Walking Dead: Season Two &#8211; Episódio 2</a></h3>
+					
+					<div class="entry-content">
+						<p>Telltale Games estreou hoje um novo trailer para o episódio de The Walking Dead: Season Two, que você pode assistir no fim do post. The Walking Dead: Season Two vai continuar a história de Clementine, uma jovem órfã desde o início do apocalipse morto-vivo, agora deixada à sua própria sorte em busca de segurança e [&hellip;]</p>
+					</div>
+					
+					<div class="entry-meta">
+						<span class="entry-date">Thursday, 27 de February de 2014</span>
+						
+						<span class="entry-read">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/novo-trailer-de-the-walking-dead-season-two-episodio-2/">Continuar lendo</a>
+						</span>
+						
+												<span class="cat-links">
+							<span class="entry-utility-prep entry-utility-prep-cat-links">Publicado em</span> <a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/games/" title="View all posts in Games" rel="category tag">Games</a>						</span>
+												
+												<span class="comments-link">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/novo-trailer-de-the-walking-dead-season-two-episodio-2/#respond" title="Comment on Novo trailer de The Walking Dead: Season Two &#8211; Episódio 2"><span class="leave-reply">Deixe um comentário</span></a>						</span>
+												
+						<span class="clear"></span>
+					</div>
+				</div>
+				
+						
+					<div id="nav-below">
+			<div class="nav-previous"><a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/page/2/" ><span class="meta-nav">&larr;</span> Mais antigos</a></div>
+			<div class="nav-next"></div>
+			<div class="clear"></div>
+		</div>
+				
+				</div>
+	</div>
+	
+	<div class="right-sidebar">
+	
+	<div id='div-gpt-ad-1372263409518-33' style='width:300px; height:250px;' class="publi">
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1372263409518-33'); });
+		</script>
+	</div>
+		
+	<div>
+		<span>Últimas Noticias</span>
+		<div class="big" id="nerdnews-section">
+			<ul class="jcarousel-skin-tango">
+																<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_left.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/from-dreams-como-left-behind-foi-feito/" rel="bookmark">&#8220;From Dreams&#8221;, como Left Behind foi feito</a>
+																					<p>Assista ao "making of" do jogo</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_minecraft6.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/minecraft-vai-virar-filme-pela-warner-bros/" rel="bookmark">Minecraft vai virar filme pela Warner Bros.</a>
+																					<p>E pode ser live-action</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_titanfall12.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/titanfall-nao-tera-season-pass/" rel="bookmark">Titanfall não terá Season Pass</a>
+																					<p>Mais DLCs vem aí!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_wolf3.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/wolfenstein-the-new-order-roda-em-1080p60fps-no-xbox-one-e-ps4/" rel="bookmark">Wolfenstein: The New Order roda em 1080p/60fps no Xbox One e PS4</a>
+																					<p>Somos iguais!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_marvel18.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/internet/series-da-marvelnetflix-serao-gravadas-em-nova-york/" rel="bookmark">Séries da Marvel/Netflix serão gravadas em Nova York</a>
+																					<p>Demolidor, Luke Cage e mais!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_dusk.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/tv/quatro-novos-posteres-da-serie-um-drinque-no-inferno/" rel="bookmark">Quatro novos pôsteres da série Um Drinque no Inferno</a>
+																					<p>Do diretor Robert Rodriguez</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_30015.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/conheca-os-viloes-de-300-a-ascensao-do-imperio/" rel="bookmark">Conheça os vilões de 300: A Ascensão do Império</a>
+																					<p>Villains of 300</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_jupiter.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/destino-de-jupiter-ganha-um-novo-trailer/" rel="bookmark">Destino de Júpiter ganha um novo trailer</a>
+																					<p>Mila Kunis não é deste planeta</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_ninja2.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/trailer-de-as-tartarugas-ninjas-chega-em-abril/" rel="bookmark">Trailer de As Tartarugas Ninjas chega em abril</a>
+																					<p>Antes de Capitão América: O Soldado Invernal</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_two.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/novo-trailer-de-the-walking-dead-season-two-episodio-2/" rel="bookmark">Novo trailer de The Walking Dead: Season Two &#8211; Episódio 2</a>
+																					<p>A House Divided</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_order.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/por-tras-da-tavola-redonda-de-the-order-1886/" rel="bookmark">Por trás da Távola Redonda de The Order: 1886</a>
+																					<p>Os mitos que inspiraram o jogo</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_got95.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/tv/todos-os-homens-precisam-morrer-em-novo-poster-de-game-of-thrones/" rel="bookmark">Todos os homens precisam morrer em novo pôster de Game of Thrones</a>
+																					<p>Valar Morghulis</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_sincity2.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/confira-as-primeiras-imagens-de-sin-city-2/" rel="bookmark">Confira as primeiras imagens de Sin City 2</a>
+																					<p>A Dama Fatal</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_godzilla6.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/godzilla-revela-a-sua-forma-na-capa-da-empire/" rel="bookmark">Godzilla revela a sua forma na capa da Empire</a>
+																					<p>Basicamente é igual ao antigo</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_capita.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/conspiracoes-novo-video-de-capitao-america-2/" rel="bookmark">&#8220;Conspirações&#8221; novo vídeo de Capitão América 2</a>
+																					<p>O Soldado Invernal</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_murdured.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/fantasmas-e-demonios-em-imagens-de-murdered-soul-suspect/" rel="bookmark">Fantasmas e demônios em imagens de Murdered: Soul Suspect</a>
+																					<p>Desvende seu próprio assassinato</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_aranha17.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/novo-comercial-estendido-de-o-espetacular-homem-aranha-2/" rel="bookmark">Novo comercial estendido de O Espetacular Homem-Aranha 2</a>
+																					<p>A Ameaça de Electro</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_sif1.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/tv/varias-imagens-da-participacao-de-jaimie-alexander-em-agents-of-s-h-i-e-l-d/" rel="bookmark">Imagens da participação de Jaimie Alexander em Agents of S.H.I.E.L.D.</a>
+																					<p>Sif is in the house!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_bat1.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/animacao/assista-ao-curta-animado-batman-vs-terminator/" rel="bookmark">Assista ao curta animado Batman vs. Terminator</a>
+																					<p>"Do meu jeito funcionou!"</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_rocket.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/quarinhos/o-filme-dos-guardioes-da-galaxia-e-o-criador-do-rocket-raccoon/" rel="bookmark">O filme dos Guardiões da Galáxia e o criador do Rocket Raccoon</a>
+																					<p>Bill Mantlo</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_sonic15.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/tv/assista-aos-bastidores-da-serie-animada-e-game-sonic-boom/" rel="bookmark">Assista aos bastidores da série animada e game Sonic Boom</a>
+																					<p>Porque do novo visual</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_deuszilla.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/godzilla-nao-esta-sozinho-em-novo-trailer-do-filme/" rel="bookmark">Godzilla não está sozinho em novo trailer do filme</a>
+																					<p>Tem mais monstros nessa história!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_batman126.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/revelado-o-primeiro-dlc-de-historia-de-batman-arkham-origins/" rel="bookmark">Revelado o primeiro DLC de história de Batman: Arkham Origins</a>
+																					<p>Cold, cold hearth!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_titanfall11.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/games/da-so-uma-olhada-na-edicao-de-colecionador-de-titanfall/" rel="bookmark">Dá só uma olhada na edição de colecionador de Titanfall</a>
+																					<p>Take My Money Edition!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_dredd7.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/karl-urban-confirma-conversas-para-juiz-dredd-2/" rel="bookmark">Karl Urban confirma conversas para Juiz Dredd 2</a>
+																					<p>Diretor negocia com o estúdio</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_smaug3.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/assista-benedict-cumberbatch-dando-vida-para-smaug/" rel="bookmark">Assista Benedict Cumberbatch dando vida a Smaug</a>
+																					<p>Como o Dragão foi criado</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_egon2.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/caca-fantasmas-iii-ainda-vai-acontecer/" rel="bookmark">Caça Fantasmas III ainda vai acontecer!</a>
+																					<p>Mesmo sem Harold Ramis</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_theraid3.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/novas-imagens-de-operacao-invasao-2/" rel="bookmark">Novas imagens de Operação Invasão 2</a>
+																					<p>The Raid 2: Berandal</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="even">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_noe1.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/cinema/novo-trailer-do-epico-biblico-noe/" rel="bookmark">Novo trailer do épico bíblico Noé</a>
+																					<p>Pegue sua capa de chuva!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+								<li>
+					<div class="odd">
+						<img alt="" width="48" height="48" class="icone" src="/wp-content/uploads/ico_247.jpg" />						<div class="nerdnews-desc">
+							<a href="http://jovemnerd.com.br/jovem-nerd-news/tv/primeira-imagem-oficial-de-24-live-another-day/" rel="bookmark">Primeira imagem oficial de 24: Live Another Day</a>
+																					<p>Corre Jack, você vai morrer!</p>
+													</div>
+
+						<div class="clear"></div>
+					</div>
+				</li>
+							</ul>
+		</div>
+	</div>
+	
+	<div class="adsense skyscraper">
+		<script type="text/javascript">
+			google_ad_client = "ca-pub-3649956827495116";
+			google_ad_slot = "1345060683";
+			google_ad_width = 300;
+			google_ad_height = 600;
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	</div>
+</div>	
+	<div class="clear"></div>
+</div>
+
+			</div>			
+			<div class="footer-image" style="background-image: url(http://crimsontyphoon.jovemnerd.com.br/wp-content/uploads/JN_Francisco_Silva__Mauriz.jpg);">
+				<div id="footer">
+					<div id="sections">
+						<div class="left-spacer">
+							<ul id="menu-rodape-principal" class="menu"><li id="menu-item-60477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60477"><h3><a href="http://www.nerdstore.com.br/">Nerdstore</a></h3></li>
+<li id="menu-item-60478" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60478"><h3><a href="http://jovemnerd.com.br/categoria/nerdcast/">Nerdcast</a></h3></li>
+<li id="menu-item-60479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60479"><h3><a href="http://jovemnerd.com.br/categoria/nerdoffice/">NerdOffice</a></h3></li>
+<li id="menu-item-60480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60480"><h3><a href="http://jovemnerd.com.br/categoria/zona-de-spoilers/">Zona de Spoilers</a></h3></li>
+<li id="menu-item-60481" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-60481"><h3><a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/">Jovem Nerd News</a></h3></li>
+<li id="menu-item-60482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60482"><h3><a href="/">Blog</a></h3></li>
+<li id="menu-item-60484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60484"><h3><a href="http://jovemnerd.com.br/anuncie/">Anuncie</a></h3></li>
+</ul>						</div>
+						<div>
+							<ul>
+								<li>
+									<h3><a>Humor</a></h3>
+									<ul id="menu-rodape-humor" class="menu"><li id="menu-item-60471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60471"><a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/quarinhos/">Quadrinhos</a></li>
+<li id="menu-item-60472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60472"><a href="http://jovemnerd.com.br/categoria/humor/versoes-resumidas/">Versões Resumidas</a></li>
+<li id="menu-item-60473" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60473"><a href="http://jovemnerd.com.br/categoria/humor/jovem-nerd-pictures/">Jovem Nerd Pictures</a></li>
+<li id="menu-item-60474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60474"><a href="http://jovemnerd.com.br/categoria/humor/reality-shows/">Reality Shows</a></li>
+<li id="menu-item-60475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60475"><a href="http://jovemnerd.com.br/categoria/humor/jornalismo/">Jornalismo</a></li>
+<li id="menu-item-60476" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60476"><a href="http://jovemnerd.com.br/categoria/humor/miscelania/">Miscelânia</a></li>
+</ul>								</li>
+								<li>
+									<h3><a>Especiais</a></h3>
+									<ul id="menu-rodape-especiais" class="menu"><li id="menu-item-60466" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60466"><a href="http://jovemnerd.com.br/categoria/jovem-nerd-news/cinema/">Cinema</a></li>
+<li id="menu-item-60467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60467"><a href="http://jovemnerd.com.br/categoria/especiais/videos/">Vídeos</a></li>
+<li id="menu-item-60468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60468"><a href="http://jovemnerd.com.br/categoria/especiais/eventos/">Eventos</a></li>
+<li id="menu-item-60469" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60469"><a href="http://jovemnerd.com.br/categoria/especiais/jovem-nerd-na-tv/">Jovem Nerd na TV</a></li>
+</ul>								</li>
+							</ul>
+						</div>
+						<div>
+							<ul>
+								<li>
+									<h3><a>Colunas</a></h3>
+									<ul id="menu-rodape-colunas" class="menu"><li id="menu-item-60455" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60455"><a href="http://jovemnerd.com.br/categoria/colunas/casting-nerd/">Casting Nerd</a></li>
+<li id="menu-item-60456" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60456"><a href="http://jovemnerd.com.br/categoria/colunas/fala-series/">Fala Séries</a></li>
+<li id="menu-item-60457" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60457"><a href="http://jovemnerd.com.br/categoria/colunas/cabeceira/">Cabeceira</a></li>
+<li id="menu-item-60458" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60458"><a href="http://jovemnerd.com.br/categoria/colunas/phonographo-digital/">Phonógrapho Digital</a></li>
+<li id="menu-item-60459" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60459"><a href="http://jovemnerd.com.br/categoria/colunas/vida-de-plastico/">Vida de Plástico</a></li>
+<li id="menu-item-60460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60460"><a href="http://jovemnerd.com.br/categoria/colunas/hyperfantasia/">Hyperfantasia</a></li>
+<li id="menu-item-60461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60461"><a href="http://jovemnerd.com.br/categoria/colunas/misterios-e-bizarrices/">Mistérios e Bizarrices</a></li>
+<li id="menu-item-60462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60462"><a href="http://jovemnerd.com.br/categoria/colunas/no-meu-tempo/">No meu Tempo&#8230;</a></li>
+<li id="menu-item-60463" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60463"><a href="http://jovemnerd.com.br/categoria/colunas/press-start/">Press Start</a></li>
+</ul>								</li>
+								<li>
+									<h3><a>Contos</a></h3>
+									<ul id="menu-rodape-contos" class="menu"><li id="menu-item-60575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60575"><a href="http://jovemnerd.com.br/categoria/contos/1000-olhos-contos/">1000 Olhos</a></li>
+<li id="menu-item-60576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60576"><a href="http://jovemnerd.com.br/categoria/contos/sitala/">Sitala</a></li>
+</ul>								</li>
+							</ul>
+						</div>
+						<div class="right-spacer">
+							<ul>
+								<li>
+									<h3><a>Comunidade</a></h3>
+									<ul id="menu-rodape-comunidade" class="menu"><li id="menu-item-60464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60464"><a href="http://jovemnerd.com.br/comunidades/">COMUNIDADES</a></li>
+<li id="menu-item-60465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60465"><a href="http://jovemnerd.com.br/downloads/">DOWNLOADS</a></li>
+</ul>								</li>
+								<li>
+									<h3><a>Quem somos</a></h3>
+									<ul id="menu-rodape-quem-somos" class="menu"><li id="menu-item-60485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60485"><a href="http://jovemnerd.com.br/quem-somos/">QUEM SOMOS</a></li>
+<li id="menu-item-60486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60486"><a href="http://jovemnerd.com.br/fale-conosco/">FALE CONOSCO</a></li>
+<li id="menu-item-60487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60487"><a href="http://jovemnerd.com.br/premios/">PRÊMIOS</a></li>
+</ul>								</li>
+							</ul>
+						</div>
+					</div>
+					<a class="click_area" style="display: block;height:471px;" href="http://franciscomauriz.blogspot.com" target="_blank"></a>
+				</div>
+			
+				<div id="copyright">
+					<div>
+						<p>&copy; <span>2002</span>-<span>2014</span> <span><strong>Jovem Nerd</strong></span> | <span>Pazos e Ottoni</span> | <span>Versão 6.0 (</span>Lambda<span>)</span></p>
+						<p style="margin: 5px 0 0 0;">Todas as imagens de filmes, séries e etc são marcas registradas dos seus respectivos proprietários</p>
+					</div>
+					<a href="http://www.ftpidigital.com.br/portifolios/midiakit_jovemnerd.pdf" target="_blank" class="ftpi" style="margin-left:425px;">
+						<img src="http://crimsontyphoon.jovemnerd.com.br/wp-content/themes/jovemnerd_v2b/images/ftpi.png" />
+					</a>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+		</body>
+	<style>#footer{height:765px;}</style>
+	<script type="text/javascript">
+		$(function(){
+			$("#skynerd-navbar").html('<iframe src="http://comentarios.jovemnerd.com.br/mini-ficha/" height="62" scrolling="no" width="340" frameborder="0" allowtransparency="true"></iframe>');
+			
+			$('.scroll-pane').jScrollPane();
+			
+			$('.menu_thumbs').jcarousel({scroll: 1});
+			$('.vertical-scroller').jcarousel({ vertical: true });
+			
+			$('.right-sidebar #nerdnews-section ul').jcarousel({visible: 15, scroll: 3, vertical: true });
+			
+			$("#latestnews-section .banner").hide();
+			$(".menu_thumbs li:first").addClass("active").show();
+			$("#latestnews-section .banner:first").show();
+			
+			$(".menu_thumbs li a").hover(function(){
+				var a = $(this);
+				a.parents('ul').find("li").removeClass("active");
+				a.parents('li').addClass("active");
+				a.parents("#latestnews-section").find('.banner').hide();
+				a.parents("#latestnews-section").find(a.attr("rel")).show();
+				return false;
+			});
+			
+			/* Apenas na pagina dos nerdcasts */ 
+			$('#latest-episodes ul').jcarousel({
+				visible: 1,
+				scroll: 1
+			});
+			
+			$("#what-is").hover(function(){
+				$("#what-is-full").slideToggle();
+			});
+			
+			$(".home-nerdmedia-box").jcarousel({
+				visible: 1,
+				scroll: 1
+			});
+			
+			/* Paginas dos posts */
+			$('#linked-posts ul').jcarousel();
+			$("#linked-posts ul li a").hover(function(){
+				$(this).find("span").slideToggle();
+			});
+			
+						if(window.parent != window){
+								window.parent.document.body.style.display = 'block';
+				document.body.style.display = 'block';
+				
+				setTimeout(function(){
+					var content_iframe = window.parent.document.getElementById("content");
+						content_iframe.style.height = document.body.offsetHeight+"px";
+				}, 1000);
+				
+				$("a").each(function(){
+					var str = window.parent.location.protocol+"//"+window.parent.location.hostname;
+					var a = $(this);
+					var href = a.attr("href");
+					if(typeof href == "string" && href.slice(0, str.length) != str){
+						a.attr('target', '_blank');
+					}
+				});
+			}
+					});
+	</script>
+</html>
+
+<!-- Dynamic page generated in 0.147 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-02-28 14:03:19 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

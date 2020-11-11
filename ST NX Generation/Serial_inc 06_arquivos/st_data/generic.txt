@@ -1,0 +1,1 @@
+!function(){var e=window.TaboolaStorageProvider,t="85",o="29cc8a01-af18-4940-9bf3-ad7a1a758335";if(e&&"function"==typeof e.saveExternalId)e.saveExternalId(t,o);else{var n="taboola-storage-provider-available",a=function(e){e.detail&&"function"==typeof e.detail.saveExternalId&&(window.removeEventListener(n,a),e.detail.saveExternalId(t,o))};window.addEventListener(n,a,!1)}}();

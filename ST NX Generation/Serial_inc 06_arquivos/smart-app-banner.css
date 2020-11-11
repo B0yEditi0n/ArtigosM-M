@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+.smartbanner-container {
+    margin: 0 auto;
+    white-space: nowrap;
+    direction: ltr!important;
+    position: relative;
+    height : 100%;
+    max-width: 800px;
+    padding: 10px 0;
+}
+.smartbanner {
+    position: absolute;
+    text-align: left;
+    left: 0;
+    top: 0;
+    display: none;
+    width: 100%;
+    height: 81px;
+    line-height: 80px;
+    font-family: Roboto, Arial, sans-serif;
+    z-index: 2999999999;
+    -webkit-font-smoothing: antialiased;
+    overflow: hidden;
+    -webkit-text-size-adjust: none
+}
+.smartbanner-close,
+.smartbanner-icon,
+.smartbanner-info {
+    display: inline-block;
+}
+.smartbanner-close {
+    width: 17px;
+    height: 100%;
+    font-family: ArialRoundedMTBold, Arial;
+    font-size: 22px;
+    line-height: 17px;
+    text-align: center;
+    text-decoration: none;
+    border: 0;
+    border-radius: 14px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    vertical-align: middle;
+}
+.smartbanner-close:active,
+.smartbanner-close:hover {
+    color: #eee
+}
+.smartbanner-icon {
+    width: 57px;
+    height: 57px;
+    background-size: cover;
+    border-radius: 10px;
+}
+.smartbanner-info {
+    text-align: left;
+    width: 44%;
+    vertical-align: top;
+    font-size: 12px;
+    line-height: 1.5em;
+    font-weight: 400;
+}
+.smartbanner-button {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    bottom: 0;
+    margin: auto 0;
+    height: 24px;
+    min-height: 25px;
+    min-width: 12%;
+    box-shadow: none;
+    border: 1px solid #fff
+}
+.smartbanner-button-text {
+    text-align: center;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-shadow: none;
+    box-shadow: none;
+    line-height: 27px;
+    font-size: 14px;
+    vertical-align: middle;
+    padding: 0 2px;
+    color: #fff;
+}
+#banner_div_empty {
+    position: absolute!important
+}
+.smartbanner-show {
+    margin-top: 80px
+}
+.smartbanner-show .smartbanner {
+    display: block
+}
+.smartbanner-info>div:nth-child(2) {
+    color: silver;
+    text-transform: uppercase
+}
+.smartbanner {
+    background: #289cdb;
+    background: -moz-linear-gradient(top, #289cdb 0, #1a6bd2 100%);
+    background: -webkit-linear-gradient(top, #289cdb 0, #1a6bd2 100%);
+    background: linear-gradient(to bottom, #289cdb 0, #1a6bd2 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#289cdb', endColorstr='#1a6bd2', GradientType=0)
+}
+.smartbanner,
+.smartbanner-button,
+.smartbanner-close {
+    color: #fff!important
+}

@@ -1,0 +1,11 @@
+<script>
+a=location.href;
+b=a.indexOf("br/");
+c=a.substring(0,b+2);
+top.location=c
+</script>
+
+
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+-->

@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr">
+<head>
+<title>Anime Kida - Meet other anime fans in your area. Make friends and fall in love with anime all over again. Join Anime Kida - social networking</title>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-language" content="en" />
+<meta name="description" content="Anime Kida - Meet other anime fans in your area. Make friends and fall in love with anime all over again. Join Anime Kida community" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/plugins/base/css/ow.css?5302e148d03aa" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/themes/GooglePlusGo/base.css?5302e148d03aa" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_userfiles/themes/GooglePlusGo530e7cf63af2e.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/plugins/advancedphoto/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/plugins/advancedphoto/css/font-awesome.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/plugins/gphotoviewer/css/PhotoViewer.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/plugins/gphotoviewer/css/font-awesome.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/plugins/gvideoviewer/css/VideoViewer.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/plugins/gvideoviewer/css/font-awesome.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://animekida.com/ow_static/plugins/avatar_extreme/css/avtex.css" media="all" />
+<style media="all">
+
+.ow_sign_in_wrap {
+	position:absolute;
+	top:200px;
+	left:50%;
+	margin:0 0 0 -351px;
+}
+
+ 
+
+body,html {background:#fff;min-width:0;}
+
+</style><link rel="shortcut icon" type="image/x-icon" href="http://animekida.com/ow_userfiles/plugins/base/favicon.ico" />
+<script type="text/javascript" src="http://animekida.com/ow_static/plugins/base/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://animekida.com/ow_static/plugins/base/js/jquery-migrate.min.js"></script>
+<meta name="google-site-verification" content="b_AZey5aK5Kxx6dB91FjLvynRrgb-QSD7owN2_9d3gY" />
+</head>
+<!--[if IE 8]><body class="ow ie8 base_sign_in"><![endif]-->
+<!--[if !IE 8]><!--><body class="ow base_sign_in"><!--<![endif]-->
+
+
+
+<div class="ow_sign_in_cont">
+    <div class="ow_sign_in_wrap">
+<h2>Anime Kida - Meet other anime fans in your area. Make friends and fall in love with anime all over again. Join Anime Kida</h2>
+<form id="form_87197297" method="post" action="" name="sign-in">
+<input name="form_name" id="input_7509856" type="hidden" value="sign-in" />
+
+     <div class="clearfix">
+        <div class="ow_sign_in">
+            <div class="ow_box_cap">
+	<div class="ow_box_cap_right">
+		<div class="ow_box_cap_body">
+			<h3 class="ow_ic_file">Please sign in</h3>
+		</div>
+	</div>
+</div>
+<div class="ow_box ow_break_word">
+
+
+                <div class="ow_user_name">
+                    <input name="identity" id="input_98834602" type="text" value="Username/Email" class="invitation" />
+                </div>
+                <div class="ow_password">
+                    <input name="password" id="input_92785688" type="password" value="password" class="invitation" />
+                </div>
+                <div class="ow_form_options clearfix">
+                    <div class="ow_right">
+                        <span class="ow_button"><span class=" ow_positive"><input type="submit"  value="Sign In" id="input_25032769" class="ow_positive"name="submit"value="Sign In"  /></span></span>
+                    </div>
+                    <p class="ow_remember_me"><input name="remember" id="input_76583880" type="checkbox" checked="checked" /><label for="input_76583880">Remember me</label></p>
+                    <p class="ow_forgot_pass"><a href="http://animekida.com/forgot-password">Forgot Password</a></p>
+                </div>
+            
+	<div class="ow_box_bottom_left"></div>
+	<div class="ow_box_bottom_right"></div>
+	<div class="ow_box_bottom_body"></div>
+	<div class="ow_box_bottom_shadow"></div>
+</div>
+            <div class="ow_connect_buttons">
+                
+            </div>
+        </div>
+        <div class="ow_sign_up">
+            <p>Welcome to our community!<br /><br />
+Before proceeding you need to register your profile and become our member.</p>
+            <hr>
+            <p> <a href="http://animekida.com/join">Join</a></p>
+        </div>
+     </div>
+
+</form>
+</div>
+</div>
+<script type="text/javascript">$(window).scroll(function() {
+         var final = "input[class='ow_newsfeed_view_more ow_ic_down_arrow']";
+         jQuery( ".ow_newsfeed_view_more_c .ow_button" ).css( "background", "transparent" );
+         jQuery( ".ow_newsfeed_view_more_c .ow_button" ).css( "border", "none" );
+         jQuery( final ).css( "font-size", "0" );
+         jQuery( final ).css( "background", "transparent" );
+if($(window).scrollTop() + $(window).height() > $(document).height() - 150 && $( final ).is(":visible")) {
+       $( final ).click();
+       $( "#feed1 .ow_newsfeed_view_more_c" ).append('<img src="http://animekida.com/ow_static/plugins/autoviewmore/image/loading.gif">' );
+   }
+   
+if($(window).scrollTop() + $(window).height() < $(document).height() - 150 || $( final ).is(":hidden")) {
+
+       $( "#feed1 .ow_newsfeed_view_more_c img" ).remove();
+   }
+});</script><script type="text/javascript">
+var lochash = document.location.hash.substr(1);
+        if ( lochash )
+        {
+            var photo_id = lochash.substr(lochash.indexOf("view-photo=")).split("&")[0].split("=")[1];
+            if ( photo_id )
+            {
+                document.location = "http:\/\/animekida.com\/photo\/view\/" + photo_id;
+            }
+        }
+        
+</script>
+<script type="text/javascript" src="http://animekida.com/ow_static/plugins/base/js/ow.js?5302e148d03aa"></script>
+<script type="text/javascript" src="http://animekida.com/ow_static/plugins/base/js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="http://animekida.com/ow_static/plugins/base/js/jquery.jscrollpane.js"></script>
+<script type="text/javascript" src="http://animekida.com/ow_static/plugins/gphotoviewer/js/PhotoViewer.min.js"></script>
+<script type="text/javascript" src="http://animekida.com/ow_static/plugins/gvideoviewer/js/VideoViewer.min.js"></script>
+<script type="text/javascript">
+(function() {OW.ajaxComponentLoaderRsp = "http:\/\/animekida.com\/base\/ajax-loader\/component\/";
+OW.ajaxAttachmentLinkRsp = "http:\/\/animekida.com\/base\/attachment\/add-link\/";
+OW.getPing().setRspUrl("http:\/\/animekida.com\/base\/ping\/index\/");
+OW.Users = new OW_UsersApi({"rsp":"http:\/\/animekida.com\/base\/ajax-users-api\/rsp\/"});
+})();
+</script>
+<script type="text/javascript">
+$(function () {
+(function(_scope) { var form = new OwForm({"id":"form_87197297","name":"sign-in","reset":true,"ajax":null,"ajaxDataType":"json","validateErrorMessage":"Please fill the form properly"});window.owForms[form.name] = form;
+			
+var formElement = new OwFormElement("input_7509856", "form_name");
+form.addElement(formElement);
+var formElement = new OwTextField("input_98834602", "identity", "Username\/Email");formElement.addValidator({
+        	validate : function( value ){
+                if(  $.isArray(value) ){ if(value.length == 0  ) throw "Required"; return;}
+                else if( !value || $.trim(value).length == 0 ){ throw "Required"; }
+        },
+        	getErrorMessage : function(){ return "Required" }
+        });
+form.addElement(formElement);
+var formElement = new OwTextField("input_92785688", "password", "password");formElement.addValidator({
+        	validate : function( value ){
+                if(  $.isArray(value) ){ if(value.length == 0  ) throw "Required"; return;}
+                else if( !value || $.trim(value).length == 0 ){ throw "Required"; }
+        },
+        	getErrorMessage : function(){ return "Required" }
+        });
+form.addElement(formElement);
+var formElement = new OwCheckboxField("input_76583880", "remember");
+form.addElement(formElement);
+
+
+			if ( form.form ) 
+			{
+    			$(form.form).bind( 'submit', {form:form},
+    					function(e){
+    						return e.data.form.submitForm();
+    					}
+    			);
+			}
+		})(window);
+(function(_scope) {OW.bindAutoClicks();OW.bindTips($('body'));})(window);
+(function(_scope) {OW.registerLanguageKey('base', 'ajax_floatbox_users_title', "Users");})(window);
+(function(_scope) {OW.registerLanguageKey('base', 'flag_as', "Flag this as...");})(window);
+(function(_scope) {OW.registerLanguageKey('base', 'delete_user_confirmation_label', "Delete confirmation");})(window);
+(function(_scope) {OW.registerLanguageKey('admin', 'edit_language', "Edit Language");})(window);
+(function(_scope) {OW.registerLanguageKey('gphotoviewer', 'from', "from");})(window);
+(function(_scope) {OW.registerLanguageKey('gphotoviewer', 'repeat', "Repeat");})(window);
+(function(_scope) {OW.registerLanguageKey('gphotoviewer', 'pause', "Pause");})(window);
+(function(_scope) {OW.registerLanguageKey('gphotoviewer', 'play', "Play");})(window);
+(function(_scope) {OW.registerLanguageKey('gphotoviewer', 'slideshow', "Slideshow");})(window);
+(function(_scope) {OW.registerLanguageKey('gphotoviewer', 'all_photos', "All photos");})(window);
+(function(_scope) {OW.registerLanguageKey('gphotoviewer', 'loading', "Loading");})(window);
+(function(_scope) {$(window).ready(function (){
+  PhotoViewer.options.slideshow_time = 3000;
+  PhotoViewer.options.urlPhoto = 'http://animekida.com/gphotoviewer/ajax/get-photos';
+  PhotoViewer.options.urlComment = 'http://animekida.com/gphotoviewer/ajax/get-photo_comment';
+  PhotoViewer.options.ajaxResponder = 'http://animekida.com/photo/photo/ajax-responder/';	   
+  PhotoViewer.bindPhotoViewer();
+  window.wpViewerTimer = setInterval(function (){
+    PhotoViewer.bindPhotoViewer();
+  }, 3000);
+});
+})(window);
+(function(_scope) {OW.registerLanguageKey('gvideoviewer', 'from', "from");})(window);
+(function(_scope) {OW.registerLanguageKey('gvideoviewer', 'all_videos', "All videos");})(window);
+(function(_scope) {OW.registerLanguageKey('gvideoviewer', 'loading', "Loading");})(window);
+(function(_scope) {$(window).ready(function (){
+  VideoViewer.options.urlVideo = 'http://animekida.com/gvideoviewer/ajax/get-videos';
+  VideoViewer.options.urlComment = 'http://animekida.com/gvideoviewer/ajax/get-video_comment';
+  VideoViewer.options.ajaxResponder = 'http://animekida.com/videoplus/video/ajax-responder/';	   
+  VideoViewer.bindVideoViewer();
+  window.wpViewerTimer = setInterval(function (){
+    VideoViewer.bindVideoViewer();
+  }, 3000);
+});
+})(window);
+(function(_scope) {    
+    $('<div class="ow_right"><span class="ow_button"><span class=" ow_ic_avtex"><input value="Avatar Builder" id="btn-avatar-builder" class="ow_ic_avtex" type="button"></span></span></div>').insertAfter($('.ow_change_avatar > .ow_stdmargin > .ow_left'));
+
+    $('#btn-avatar-builder').click(function(){
+      avatarBuilderFloatBox = OW.ajaxFloatBox('BYTONAVATAREXTREME_CMP_AvatarWidget', {} , {width:740, iconClass: 'ow_ic_avtex', title: 'Avatar maker'});
+    });
+    })(window);
+
+});
+</script>
+
+</body>
+</html>

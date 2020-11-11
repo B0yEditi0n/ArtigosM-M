@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> ><! <![endif]-->
+<html class='no-js' lang='en'>
+  <!-- <![endif] -->
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width" />
+    <meta content='' name='description'>
+    <meta content='' name='keywords'>
+          <title>Back to the Future&trade; | </title>
+        <meta property="og:image" content="http://www.bttf.com/img/default_marty-and-doc.jpg" />
+    <link rel="stylesheet" href="/css/site.css" />
+		<script src="/js/vendor/custom.modernizr.js"></script>
+    	<!-- IE Fix for HTML5 Tags -->
+    	<!--[if lt IE 9]>
+      	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    	<![endif]-->
+		    
+    <!-- Disable Image Right-Click -->
+    <script type="text/javascript">
+    document.oncontextmenu = context_menu;
+ 
+	function context_menu(e) {
+	if (!e) var e = window.event;
+		var eTarget = (window.event) ? e.srcElement : e.target;
+	 
+		if (eTarget.nodeName == "IMG") {
+			//context menu attempt on top of an image element
+			return false;
+		}
+	}
+	</script>
+	<!-- END -->
+  <!-- JW PLAYER -->
+    <script type="text/javascript" src="/js/jwplayer.js"></script>
+    <script type="text/javascript">jwplayer.key="7Xn9c4XcnlCnxOeIpYypRrN+sDK/HMDLDVaIjgeMQSI=";</script>
+  <!-- END -->
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-5549932-2']);
+    _gaq.push(['_setDomainName', 'bttf.com']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+  </head>
+  <body class="subpage " id="">
+  	<header>
+    	<div class="header row">
+        <a id="menu" class="show-for-small"><img src="/img/navicon.png" /></a>
+
+        <h1 class="large-3 small-3 columns"><a href="/" class="logo"><img src="/img/logo.png" nopin="nopin"></a></h1>
+        <div class="store_header row">
+           <div class="store_header_search_links large-9 large-offset-3 hide-for-small columns ">
+          <div class="search left">            
+            <form action="/search" method="get" name="fsearch" id="fsearch">
+              <input class="search" type="text" name="find" id="find" value="">
+              <button class="search">Search</button>
+            </form>
+          </div>
+          <ul class="store_links right">
+            <!-- <li><a href="#">Help</a></li>
+            <li><a href="#">My Account</a></li>
+            <li><a href="#">View Cart (3) $121.88</a></li> -->
+          </ul>
+        </div>
+      </div>
+
+      <nav class="large-9 columns">
+          <ul>
+            <li><a href="/movies">The Movies</a></li>
+            <li><a href="/cast">Cast & Crew</a></li>
+            <li><a href="/delorean">The DeLorean</a></li>
+            <li><a href="/news">News & Events</a></li>
+            <li><a href="https://www.bttf.net/" target="_blank">Store</a></li>
+            <li><a href="/galleries">Galleries</a></li>
+            <li><a href="/videos">Videos</a></li>
+            <li><a href="http://www.telltalegames.com/backtothefuture" target="_blank">The Game</a></li>
+          </ul>
+        </nav>
+      
+        <!-- AddThis Smart Layers BEGIN -->
+        <!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+        <div class="addthis">
+          <!-- AddThis Smart Layers BEGIN -->
+          <!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+          <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=bttf"></script>
+          <script type="text/javascript">
+            addthis.layers({
+              'theme' : 'dark',
+              'share' : {
+                'position' : 'left',
+                'numPreferredServices' : 4,
+                'services': 'twitter, facebook, pinterest_share, email, more'
+              }, 
+              'theme' : 'transparent',
+              'follow' : {
+                'offset': {'top':'4%'},
+                'services' : [
+                  {'service': 'twitter', 'id': 'BacktotheFuture'},
+                  {'service': 'facebook', 'id': 'BTTFstore'},
+                  {'service': 'youtube', 'id': 'bttfcom'},
+                  {'service': 'pinterest', 'id': 'BacktotheFuture'}
+                ]
+              },
+              'thankyou' : false   
+            });
+          </script>
+          <!-- AddThis Smart Layers END -->
+        </div>
+
+
+        <!--<div class="social hide-for-small">
+          <a href="http://www.twitter.com/BacktotheFuture" target="_blank"><img src="img/twitter.png"></a>
+          <a href="http://www.facebook.com/BTTFstore" target="_blank"><img src="img/facebook.png"></a>
+          <a href="http://www.pinterest.com/BacktotheFuture" target="_blank"><img src="img/pinterest.png"></a>
+          <a href="http://www.youtube.com/bttfcom" target="_blank"><img src="img/youtube.png"></a>
+        </div>
+      </div>
+      <div class="pw-widget pw-vertical pw-counter-horizontal social2 hide-for-small hide-for-medium">
+        <a class="pw-button-twitter pw-look-native"></a>
+        <a class="pw-button-facebook pw-look-native"></a>
+        <a class="pw-button-pinterest pw-look-native"></a>
+        <a class="pw-button-email pw-look-native"></a>
+      </div>-->
+      <script src="http://i.po.st/static/v3/post-widget.js#publisherKey=2lpjt25kurrsiuammk7h" type="text/javascript"></script>
+    </header>
+    
+
+ 	
+<div class="subpage_main row">
+    <h2>ERASED... FROM EXISTENCE</h2>
+</div>
+<section class="subpage row">
+  <article class="subpage_content large-12 columns">
+<div style="min-height: 150px;">
+It seems that the page you are looking for does not exist.
+</div>
+  </article>
+</section>
+
+<div class="clear"></div>
+  <footer>
+  	<div class="ad_and_credits row">
+    	<div class="large-7 small-12 columns">
+<!--      		<a href="http://www.nbc.com/the-michael-j-fox-show/" target="_blank"><img src="/img/ad.jpg" /></a> -->
+      		<a href="https://www.screenused.com/index.cfm?sectionID=item-detail&subsectionID=index.cfm&item_id=14692&private" target="_blank"><img src="/img/Mar2014_Banner_1456x180_72dpi.gif" /></a>
+
+      </div>
+
+    	<div class="credits large-5 small-12 columns">
+        <img src="/img/credits_bttf1.jpg" />    </div>
+  </div>
+
+    <div class="nav_signup row">
+    	<div class="footer_nav large-6 columns">
+        <ul class="footer_nav inline-list">
+          <li><a href="/">Home</a></li>
+          <li><a href="/contact-us">Contact Us</a></li>          
+          <li><a class="last" href="/forums">Forums [Archive]</a></li>
+          <!-- <li><a href="/terms-of-use">Terms of Use</a></li> -->
+          <!-- <li><a class="last" href="/privacy-policy">Privacy Policy</a></li> -->
+        </ul>
+      </div>
+      <div class="signup large-6 columns">
+      	<h4>Subscribe to our free newsletter</h4>
+
+        <form method="post" target="_blank" action="http://visitor.constantcontact.com/d.jsp" name="ccoptin">
+          <input type="email" class="email_signup" name="ea" />
+          <button type="submit" value="Submit" name="go">Subscribe</button>
+              <input type="hidden" value="1102829252039" name="m"></input>
+              <input type="hidden" value="oi" name="p"></input>
+        </form>
+      </div>    	
+    </div>
+
+
+
+
+    <div class="copyright row">
+
+     
+    	  <p align="center">Copyright &copy;
+        1992 - 2014 To Be Continued, LLC. All Rights Reserved. <br />
+
+        <span style="font-family: 'Arial', 'Helvetica', sans-serif; font-style: italic !important;"><strong>Back to the Future&trade;, Back to the Future&trade; Part II and Back to the Future&trade; Part III</strong></span> are registered trademarks and copyrights of Universal City Studios, Inc. and U-Drive Joint Venture. </p>
+      <br />
+      
+      <a href="http://www.zeekeeinteractive.com" class="right" target="_blank"><img src="/img/zeekee-slug-white-2011.png" alt="Zeekee Interactive" /></a>
+      
+    </div>
+  </footer>
+  <div id="myModal" class="reveal-modal small">
+  <img src="http://placehold.it/600x600&text=Image">
+  <p class="lead">Your couch.  It is mine.</p>
+  <p>Im a cool paragraph that lives inside of an even cooler modal. Wins</p>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div id="myModalVideo" class="reveal-modal small">
+  <div class="flex-video">
+    <iframe width="640" height="480" src="//www.youtube.com/embed/WsQRLkL8OlQ" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <p class="lead">Your couch.  It is mine.</p>
+  <p>Im a cool paragraph that lives inside of an even cooler modal. Wins</p>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div id="myModalDownload" class="reveal-modal small">
+  <img src="http://placehold.it/600x600&text=Image">
+  <p class="lead">Your couch.  It is mine.</p>
+  <p>Im a cool paragraph that lives inside of an even cooler modal. Wins</p>
+  <p><a href="#">Download Link</a></p>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+	<script src='/js/vendor/jquery.js'></script>
+  <script src="/js/foundation.min.js"></script>
+  <script src="/js/site.js"></script>
+  <script>
+    $(document).foundation('orbit', {
+  animation: 'fade',
+  timer_speed: 10000,
+  pause_on_hover: false,
+  resume_on_mouseout: false,
+  animation_speed: 500,
+  stack_on_small: false,
+  navigation_arrows: true,
+  slide_number: false,
+  bullets: false,
+  timer: false,
+  variable_height: false,
+});
+  </script>
+  
+    <!-- Hidden Layers -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js" type="text/javascript"></script>
+    <script src="/js/character-content.js" type="text/javascript"></script>
+    <!-- END -->
+    <!-- PINTEREST PIN IT BUTTON -->
+    <script type="text/javascript" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+    <!-- END -->
+</body>
+</html>
